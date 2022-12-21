@@ -41,7 +41,7 @@
       }
     }
     stage('CleanWs') {
-      steps{
+      steps {
         CleanWs()
       }
       
